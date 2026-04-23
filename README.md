@@ -1,7 +1,11 @@
-# AI Coding Environment Setup
+# AI-Assisted Growth Marketing Research Project
 
 ## Project Overview
-This project documents my process of setting up an AI-assisted coding environment using Cursor and GitHub. I focused on following the setup steps and understanding how each tool works in practice.
+This project combines two key components: setting up an AI-assisted development environment and applying it to a real-world research task.
+
+First, I configured a working environment using Cursor IDE, GitHub, and AI extensions. Then, I used this setup to conduct a structured research project on LinkedIn organic content strategy for B2B SaaS.
+
+The goal was not only to learn new tools, but to apply them in analyzing high-quality marketing content and extracting practical insights.
 
 ---
 
@@ -13,42 +17,89 @@ This project documents my process of setting up an AI-assisted coding environmen
 
 ---
 
-## Implementation Steps
-1. Created a public repository on GitHub to host the project.
-2. Cloned the repository into Cursor IDE for local development.
-3. Installed and configured the Claude Code and Codex extensions.
-4. Opened and edited the README.md file within Cursor.
-5. Used Git version control to commit and push updates to GitHub.
+## Environment Setup
+
+### What I Did
+1. Created a public repository on GitHub.
+2. Cloned the repository into Cursor IDE.
+3. Installed and configured Claude Code and Codex extensions.
+4. Created and managed files using Git version control (commit & push).
+
+### Challenges and Resolutions
+
+**Understanding Git Workflow**  
+- *Challenge:* I was initially confused about when to commit and push changes.  
+- *Solution:* I learned through tutorials and hands-on practice until I understood the workflow.
+
+**Navigating Cursor Features**  
+- *Challenge:* Cursor was a new environment for me.  
+- *Solution:* I explored the interface and tested features to understand how it works.
 
 ---
 
-## Challenges and Resolutions
+## Transition to Research
+After setting up the environment, I applied these tools to conduct a structured research project.
 
-### 1. Understanding the Git Workflow
-- **Challenge:** At first, I was confused about when to commit and when to push changes, since this was my first time using Git workflow in practice.
-- **Solution:** I referred to online tutorials and practiced the workflow until I understood how changes are tracked and uploaded.
-
-### 2. Navigating Cursor Features
-- **Challenge:** As Cursor was a new environment, I needed time to understand how to access extensions and use built-in AI features.
-- **Solution:** I spent some time clicking through the interface and trying basic commands to understand how Cursor works.
+This step was important because it shows not only tool familiarity, but also the ability to use those tools in a real-world context.
 
 ---
 
-## Key Takeaways
-- I became more comfortable using GitHub for version control.
-- I learned how to set up and use AI tools inside a coding environment.
-- I realized that I can figure things out by searching and trying, even when I don’t fully understand everything at first.
+## Research Focus
+LinkedIn organic content strategy for B2B SaaS.
+
+---
+
+## Research Process
+- Selected 10 high-quality experts in B2B marketing and content strategy  
+- Collected and reviewed their recent LinkedIn posts  
+- Analyzed content structure, messaging, and engagement patterns  
+- Identified repeatable principles behind high-performing content  
+- Connected findings to broader growth marketing concepts  
+
+All research materials are organized in the `/research` folder.
+
+---
+
+## Why These Experts
+The selected experts are practitioners who actively share insights based on real-world experience in B2B marketing, content strategy, and growth.
+
+They were chosen based on the consistency of their content, relevance to LinkedIn strategy, and the practical value of their insights. The goal was to focus on high-signal sources rather than generic or surface-level content.
+
+---
+
+## Data Collection Approach
+Content was collected using a combination of manual research and AI-assisted tools (Claude Code and Codex).
+
+AI tools were used to help structure, summarize, and analyze content efficiently, while manual selection ensured relevance and quality of sources.
+
+---
+
+## Key Insights
+- Content performance is driven by clarity and consistency  
+- Distribution is as important as content creation  
+- Trust-building is more effective than short-term conversion tactics  
+- Buyer behavior is shifting toward self-education  
+- Content must support the entire customer journey, not just awareness  
+- AI is changing how content is discovered and evaluated  
 
 ---
 
 ## Experiment with AI Tools
-I tested Cursor’s AI capabilities by prompting it to improve sections of this README. The AI provided suggestions for clearer wording and better structure, which I reviewed and selectively applied.
+I used AI tools within Cursor to assist with structuring, refining, and improving written content.
 
-This experience showed how AI tools can enhance productivity, especially in writing, structuring ideas, and supporting decision-making processes.
+Rather than relying fully on AI output, I reviewed and adjusted suggestions to ensure clarity and relevance. This helped me understand how AI can support productivity while still requiring human judgment.
 
 ---
 
-## Reflection
-This task made me realize that learning new tools is not as difficult as I initially thought. At first, I didn’t fully understand how everything worked, but by trying step by step and looking for solutions, I was able to complete the setup.
+## Key Takeaways
+- I can set up and use AI-assisted development tools independently  
+- I improved my understanding of GitHub workflows and version control  
+- I learned how to analyze content and extract strategic insights  
+- I became more confident in learning new tools through exploration and research  
 
-It also showed me how useful AI can be, not just for coding but also for improving writing and organizing ideas.
+---
+
+## Why This Matters
+This project demonstrates the ability to quickly learn new tools and apply them to practical problems.
+
+It reflects skills in research, analysis, and synthesis, which are essential for growth marketing roles, especially in content strategy and B2B environments.
