@@ -7,6 +7,13 @@ First, I configured a working environment using Cursor IDE, GitHub, and AI exten
 
 The goal was not only to learn new tools, but to apply them in analyzing high-quality marketing content and extracting practical insights.
 
+## Final Output
+
+The final playbook based on this research can be found here:  
+(research/playbook.md)
+
+This playbook translates the collected insights into a structured, actionable LinkedIn content strategy for B2B SaaS.
+
 ---
 
 ## Technology Stack
@@ -103,3 +110,4 @@ Rather than relying fully on AI output, I reviewed and adjusted suggestions to e
 This project demonstrates the ability to quickly learn new tools and apply them to practical problems.
 
 It reflects skills in research, analysis, and synthesis, which are essential for growth marketing roles, especially in content strategy and B2B environments.
+
